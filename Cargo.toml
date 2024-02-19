@@ -1,0 +1,9 @@
+[workspace]
+members = [ "example_app",
+    "migration_macro",
+    "migration_repr",
+    "example_app",
+    "example_legacy_types",
+    "example_proc_macro"
+]
+
